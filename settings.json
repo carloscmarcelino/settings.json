@@ -1,0 +1,102 @@
+/*
+Extensões: ES7React, LiveSass, LiveServer, OrigamidNext, Prettier, vscode-styled-components, material icon theme;
+Necessario ter instalado a fonte ibm plex mono;
+iphone 7: w 375, h 533,
+s10: w 348, h 652;
+*/
+{
+  "git.enabled": false,
+  "editor.fontFamily": "IBM Plex Mono",
+  "editor.tabSize": 2,
+  "editor.fontSize": 16,
+  "editor.lineHeight": 24,
+  "editor.letterSpacing": 0,
+  "files.autoSave": "afterDelay",
+  "editor.suggest.showCustomcolors": false,
+  "window.zoomLevel": 1,
+  "explorer.confirmDelete": false,
+  "workbench.panel.defaultLocation": "right",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "editor.wordWrap": "on",
+  "security.workspace.trust.untrustedFiles": "open",
+  "breadcrumbs.filePath": "off",
+  "outline.icons": false,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveServer.settings.donotVerifyTags": true,
+  "editor.minimap.enabled": false,
+  "editor.hover.enabled": false,
+  "workbench.tree.indent": 10, 
+  "terminal.integrated.fontSize": 16,
+  "files.associations": {
+    "*.js": "javascript",
+    "*.jsx": "javascriptreact",
+    "*.ts": "typescript",
+    "*.tsx": "typescriptreact",
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "expanded",
+      "extensionName": ".css",
+      "savePath": "~/../css/"
+    },
+    {
+      "format": "compressed",
+      "extensionName": ".min.css",
+      "savePath": "~/../css/"
+    },
+  ],
+  "workbench.activityBar.visible": true,
+  "explorer.confirmDragAndDrop": false,
+  "diffEditor.renderSideBySide": true,
+  "editor.formatOnSave": true,
+  "html.autoClosingTags": false,
+  "editor.colorDecorators": false,
+  "editor.autoClosingBrackets": "always",
+  "editor.autoClosingQuotes": "always",
+  "prettier.singleQuote": true,
+  "editor.minimap.renderCharacters": false,
+  "breadcrumbs.enabled": false,
+  "color-highlight.markerType": "dot-before",
+  "editor.renderWhitespace": "selection",
+  "workbench.statusBar.visible": true,
+  "prettier.trailingComma": "all",
+  "explorer.sortOrder": "default",
+  "window.title": "${activeEditorMedium}${separator}${rootName}",
+  "window.newWindowDimensions": "inherit",
+  "html.format.wrapAttributes": "auto",
+  "html.format.wrapLineLength": 0,
+  "workbench.startupEditor": "none",
+  "workbench.colorTheme": "Origamid Next",
+  "workbench.iconTheme": "material-icon-theme",
+  "git.enableSmartCommit": true,
+  "files.exclude": {
+    "public": true,
+    "README.md": true,
+    ".gitignore": true,
+    "package.json": true,
+    "package-lock.json": true,
+    "**/node_modules": true,
+    ".next": true,
+    ".eslintrc.json": true,
+    "next-env.d.ts": true,
+    "next.config.js": true,
+    "tsconfig.json": true,
+    "yarn.lock": true,
+    // "": true,
+  },
+}
