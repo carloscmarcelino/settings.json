@@ -65,7 +65,7 @@ s10: w 348, h 652;
   "diffEditor.renderSideBySide": true,
   "editor.formatOnSave": true,
   "html.autoClosingTags": false,
-  "editor.colorDecorators": false,
+  // "editor.colorDecorators": false,
   "editor.autoClosingBrackets": "always",
   "editor.autoClosingQuotes": "always",
   "prettier.singleQuote": true,
@@ -99,4 +99,22 @@ s10: w 348, h 652;
   //   "yarn.lock": true,
   //   // "": true,
   // },
+  //
+  //
+  //
+  //Preferences: Configure User Snippets
+  //Javascript
+  // "Styled components js": {
+	// 	"prefix": "stld",
+	// 	"body": [
+	// 		"import styled from 'styled-components';",
+	// 		"",
+	// 		"const NAME = styled.TAG`",
+	// 		"  border: 1px solid red;",
+	// 		"`;",
+	// 		"",
+	// 		"export default NAME;",
+	// 		""
+	// 	]
+	// }
 }
