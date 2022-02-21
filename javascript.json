@@ -1,0 +1,23 @@
+{
+	"Styled components js": {
+		"prefix": "stld",
+		"body": [
+			"import styled from 'styled-components';",
+			"",
+			"const NAME = styled.TAG`",
+			"  border: 1px solid red;",
+			"`;",
+			"",
+			"export default NAME;",
+			""
+		]
+	},
+	"div container": {
+		"prefix": ".container",
+		"body": [
+			"<div className='container'>",
+			"",
+			"</div>"
+		]
+	}
+}
