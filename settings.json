@@ -117,4 +117,12 @@ s10: w 348, h 652;
 	// 		""
 	// 	]
 	// }
+  // "div container": {
+	// 	"prefix": ".container",
+	// 	"body": [
+	// 		"<div className='container'>",
+	// 		"",
+	// 		"</div>"
+	// 	]
+	// }
 }
