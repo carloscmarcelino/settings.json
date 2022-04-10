@@ -48,18 +48,18 @@ s10: w 348, h 652;
   "[html]": {
     "editor.defaultFormatter": "vscode.html-language-features"
   },
-  "liveSassCompile.settings.formats": [
-    {
-      "format": "expanded",
-      "extensionName": ".css",
-      "savePath": "~/../css/"
-    },
-    {
-      "format": "compressed",
-      "extensionName": ".min.css",
-      "savePath": "~/../css/"
-    },
-  ],
+  // "liveSassCompile.settings.formats": [
+  //   {
+  //     "format": "expanded",
+  //     "extensionName": ".css",
+  //     "savePath": "~/../css/"
+  //   },
+  //   {
+  //     "format": "compressed",
+  //     "extensionName": ".min.css",
+  //     "savePath": "~/../css/"
+  //   },
+  // ],
   "workbench.activityBar.visible": true,
   "explorer.confirmDragAndDrop": false,
   "diffEditor.renderSideBySide": true,
@@ -97,6 +97,29 @@ s10: w 348, h 652;
     "next.config.js": true,
     "tsconfig.json": true,
     "yarn.lock": true,
+    ".github": true,
+    ".husky": true,
+    ".storybook": true,
+    ".vscode": true,
+    "docs": true,
+    "generators": true,
+    ".editorconfig": true,
+    ".env": true,
+    ".env.example": true,
+    ".eslintignore": true,
+    ".prettierignore": true,
+    "commitlint.config.js": true,
+    ".prettierrc.json": true,
+    "tsconfig.paths.json": true,
+    "test.js": true,
+    "craco.config.js": true,
+    "cypress.json": true,
+    ".gitlab-ci.yml": true,
+    ".eslintrc.js": true,
+    "debug.log": true,
+    "format.json": true,
+    "jsconfig.json": true,
     // "": true,
   },
+
 }
