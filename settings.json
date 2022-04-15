@@ -25,7 +25,7 @@ s10: w 348, h 652;
   "editor.minimap.enabled": false,
   "liveServer.settings.donotShowInfoMsg": true,
   "liveServer.settings.donotVerifyTags": true,
-  "workbench.tree.indent": 10, 
+  "workbench.tree.indent": 15, 
   "terminal.integrated.fontSize": 16,
   "files.associations": {
     "*.js": "javascript",
@@ -119,7 +119,7 @@ s10: w 348, h 652;
     "debug.log": true,
     "format.json": true,
     "jsconfig.json": true,
+    ".htaccess": true,
     // "": true,
-  },
-
+  }
 }
