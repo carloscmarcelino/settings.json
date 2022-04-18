@@ -1,12 +1,4 @@
-/*
-Extensões: ES7React, LiveSass, LiveServer, OrigamidNext, Prettier, vscode-styled-components, material icon theme;
-Necessario ter instalado a fonte ibm plex mono;
-iphone 7: w 375, h 533,
-s10: w 348, h 652;
-*/
 {
-  // "git.enabled": false,
-  // "editor.hover.enabled": false,
   "editor.fontFamily": "IBM Plex Mono",
   "editor.tabSize": 2,
   "editor.fontSize": 16,
@@ -23,15 +15,13 @@ s10: w 348, h 652;
   "breadcrumbs.filePath": "off",
   "outline.icons": false,
   "editor.minimap.enabled": false,
-  "liveServer.settings.donotShowInfoMsg": true,
-  "liveServer.settings.donotVerifyTags": true,
-  "workbench.tree.indent": 15, 
+  "workbench.tree.indent": 15,
   "terminal.integrated.fontSize": 16,
   "files.associations": {
     "*.js": "javascript",
     "*.jsx": "javascriptreact",
     "*.ts": "typescript",
-    "*.tsx": "typescriptreact",
+    "*.tsx": "typescriptreact"
   },
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
@@ -48,18 +38,6 @@ s10: w 348, h 652;
   "[html]": {
     "editor.defaultFormatter": "vscode.html-language-features"
   },
-  // "liveSassCompile.settings.formats": [
-  //   {
-  //     "format": "expanded",
-  //     "extensionName": ".css",
-  //     "savePath": "~/../css/"
-  //   },
-  //   {
-  //     "format": "compressed",
-  //     "extensionName": ".min.css",
-  //     "savePath": "~/../css/"
-  //   },
-  // ],
   "workbench.activityBar.visible": true,
   "explorer.confirmDragAndDrop": false,
   "diffEditor.renderSideBySide": true,
@@ -120,6 +98,7 @@ s10: w 348, h 652;
     "format.json": true,
     "jsconfig.json": true,
     ".htaccess": true,
+    "Procfile": true,
     // "": true,
   }
 }
