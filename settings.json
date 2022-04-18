@@ -49,7 +49,6 @@
   "prettier.singleQuote": true,
   "editor.minimap.renderCharacters": false,
   "breadcrumbs.enabled": false,
-  "color-highlight.markerType": "dot-before",
   "editor.renderWhitespace": "selection",
   "workbench.statusBar.visible": true,
   "prettier.trailingComma": "all",
