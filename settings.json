@@ -15,7 +15,7 @@
   "breadcrumbs.filePath": "off",
   "outline.icons": false,
   "editor.minimap.enabled": false,
-  "workbench.tree.indent": 15,
+  "workbench.tree.indent": 20,
   "terminal.integrated.fontSize": 16,
   "files.associations": {
     "*.js": "javascript",
