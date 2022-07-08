@@ -61,6 +61,7 @@
   "workbench.colorTheme": "Origamid Next",
   "workbench.iconTheme": "material-icon-theme",
   "git.enableSmartCommit": true,
+  "window.zoomLevel": 1,
   "files.exclude": {
     // "public": true,
     // "README.md": true,
@@ -129,6 +130,5 @@
     "src/App.tsx": true,
     // "src/routes": true,
     // "src/modules": true,
-  },
-  "window.zoomLevel": 1,
+  }
 }
