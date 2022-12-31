@@ -1,5 +1,6 @@
 // Editor config, es7 + react, eslint, gitlens, material icon, origamid next, prettier, wakatime.
 {
+  "window.restoreWindows": "none",
   "typescript.tsdk": "node_modules/typescript/lib",
   "editor.fontFamily": "IBM Plex Mono",
   "editor.tabSize": 2,
