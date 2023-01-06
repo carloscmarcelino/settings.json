@@ -1,4 +1,4 @@
-// Editor config, es7 + react, eslint, gitlens, material icon, origamid next, prettier, wakatime.
+// Editor config, es7 + react, eslint, material icon, origamid next, prettier.
 {
   "window.restoreWindows": "none",
   "typescript.tsdk": "node_modules/typescript/lib",
