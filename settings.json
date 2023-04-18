@@ -1,4 +1,3 @@
-// Editor config, es7 + react, eslint, material icon, origamid next, prettier.
 {
   "window.restoreWindows": "none",
   "typescript.tsdk": "node_modules/typescript/lib",
@@ -49,7 +48,6 @@
   "editor.autoClosingQuotes": "always",
   "prettier.singleQuote": true,
   "editor.minimap.renderCharacters": false,
-  "breadcrumbs.enabled": false,
   "editor.renderWhitespace": "selection",
   "workbench.statusBar.visible": true,
   "prettier.trailingComma": "all",
@@ -138,5 +136,10 @@
   },
   "git.confirmSync": false,
   "workbench.layoutControl.enabled": false,
-  "window.zoomLevel": 1
+  "typescript.updateImportsOnFileMove.enabled": "never",
+  "window.zoomLevel": 1,
+  "eslint.format.enable": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
 }
