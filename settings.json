@@ -18,10 +18,6 @@
   "explorer.compactFolders": false,
   "editor.semanticHighlighting.enabled": false,
   "breadcrumbs.enabled": false,
-  // isso aqui esconde a barra la da esquerda <----
-  // "workbench.activityBar.location": "hidden",
-  //isso aqui é a barra de navegacao na direita ---->
-  // "editor.minimap.enabled": false,  
   "outline.icons": false,
   "terminal.integrated.fontSize": 16,
   "files.associations": {
@@ -49,7 +45,6 @@
   "diffEditor.renderSideBySide": true,
   "editor.formatOnSave": true,
   "html.autoClosingTags": false,
-  // "editor.colorDecorators": false,
   "editor.autoClosingBrackets": "always",
   "editor.autoClosingQuotes": "always",
   "prettier.singleQuote": true,
@@ -75,5 +70,7 @@
   "workbench.colorTheme": "Origamid Next",
   "window.commandCenter": false,
   "window.menuBarVisibility": "compact",
-  "workbench.layoutControl.enabled": false
+  "workbench.layoutControl.enabled": false,
+  "css.lint.unknownAtRules": "ignore",
+  "workbench.sideBar.location": "right"
 }
