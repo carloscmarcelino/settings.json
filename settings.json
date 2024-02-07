@@ -1,3 +1,4 @@
+// Extensões: ES7 +, ESlint, GitLens, Materal icon, Origamid Next, Prettier, Tailwind CSS IntelliSense, Color Highlight
 {
   "window.restoreWindows": "none",
   "typescript.tsdk": "node_modules/typescript/lib",
@@ -71,6 +72,5 @@
   "window.commandCenter": false,
   "window.menuBarVisibility": "compact",
   "workbench.layoutControl.enabled": false,
-  "css.lint.unknownAtRules": "ignore",
-  "workbench.sideBar.location": "right"
+  "css.lint.unknownAtRules": "ignore"
 }
