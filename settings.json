@@ -1,8 +1,12 @@
-// Extensões: ES7 +, ESlint, GitLens, Materal icon, Origamid Next, Prettier, Tailwind CSS IntelliSense, Color Highlight
+// Extensões: ES7 +, ESlint, GitLens, Materal icon, Origamid Next, Prettier, Tailwind CSS IntelliSense, Color Highlight, Error lens
 {
   "window.restoreWindows": "none",
   "typescript.tsdk": "node_modules/typescript/lib",
-  "editor.fontFamily": "IBM Plex Mono",
+  // "editor.fontFamily": "IBM Plex Mono",
+  "editor.fontFamily": "JetBrainsMono Nerd Font",
+  // "workbench.colorTheme": "Origamid Next",
+  "workbench.colorTheme": "Dracula",
+  // "workbench.colorTheme": "Min Dark",
   "editor.tabSize": 2,
   "editor.fontSize": 16,
   "editor.lineHeight": 24,
@@ -68,9 +72,8 @@
     "source.fixAll.eslint": "explicit"
   },
   "window.zoomLevel": 1,
-  "workbench.colorTheme": "Origamid Next",
   "window.commandCenter": false,
   "window.menuBarVisibility": "compact",
   "workbench.layoutControl.enabled": false,
-  "css.lint.unknownAtRules": "ignore"
+  "css.lint.unknownAtRules": "ignore",
 }
