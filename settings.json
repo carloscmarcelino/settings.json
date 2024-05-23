@@ -55,7 +55,6 @@
   "prettier.singleQuote": true,
   "editor.minimap.renderCharacters": false,
   "editor.renderWhitespace": "selection",
-  "workbench.statusBar.visible": false,
   "prettier.trailingComma": "all",
   "explorer.sortOrder": "default",
   "window.title": "${activeEditorMedium}${separator}${rootName}",
@@ -76,4 +75,6 @@
   "window.menuBarVisibility": "compact",
   "workbench.layoutControl.enabled": false,
   "css.lint.unknownAtRules": "ignore",
+  "files.eol": "\n",
+  "workbench.statusBar.visible": false,
 }
