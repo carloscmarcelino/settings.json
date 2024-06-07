@@ -5,7 +5,7 @@
   // "editor.fontFamily": "IBM Plex Mono",
   "editor.fontFamily": "JetBrainsMono Nerd Font",
   // "workbench.colorTheme": "Origamid Next",
-  "workbench.colorTheme": "Dracula",
+  "workbench.colorTheme": "Min Dark",
   // "workbench.colorTheme": "Min Dark",
   "editor.tabSize": 2,
   "editor.fontSize": 16,
@@ -75,6 +75,6 @@
   "window.menuBarVisibility": "compact",
   "workbench.layoutControl.enabled": false,
   "css.lint.unknownAtRules": "ignore",
-  "files.eol": "\n",
   "workbench.statusBar.visible": false,
+  "extensions.ignoreRecommendations": true,
 }
