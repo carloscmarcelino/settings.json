@@ -1,4 +1,5 @@
-// Extensões: ES7 +, ESlint, GitLens, Materal icon, Origamid Next, Prettier, Tailwind CSS IntelliSense, Color Highlight, Error lens
+// Extensões: dracula, error lens, es7+ react, eslint, gitlens, material icon, min theme,
+// origamid next, prettier, symbols, tailwind css
 {
   "window.restoreWindows": "none",
   "typescript.tsdk": "node_modules/typescript/lib",
